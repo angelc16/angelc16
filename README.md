@@ -2,7 +2,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Angel15403890)
 
 ### Hi there 👋
-I am a full-stack software engineer
+I'm a Full-Stack Develope
 - 🔭 I’m currently working on something cool;
 - 🌱 I’m currently keep learning 
 - 🛠 Lang & Framework: .NET, Spring, Angular/React, Javascript
