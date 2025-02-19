@@ -8,7 +8,11 @@ I'm a Full-Stack Developer
 - 🛠 Lang & Framework: .NET, Spring, Angular/React, Javascript
 - ⛏ Interest: Python, Next.js
 - 👯 I’m looking to collaborate on open source/commercial projects
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp;  How to reach me: angel.cc.710@outlook.com
+
+📚 I also love to read from time to time, you can follow my reading journey on Goodreads here.
+
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp;  How to reach me: angel.cc.710@outlook.com or on LinkedIn as @angel-choque-8ab65a243
+
 <!--
 **angelc16/angelc16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
