@@ -3,8 +3,8 @@
 
 ### Hi there 👋
 I'm a software developer. I have a growth mindset and am always learning something new.
-- 🔭 I’m currently working on something cool;
-- 👯 I’m looking to collaborate on open source/commercial projects
+- I’m currently working on something cool;
+- I’m looking to collaborate on open source/commercial projects
 
 🛠️ Tech Stack:
 - Frontend:  Angular | React
