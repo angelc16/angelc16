@@ -4,10 +4,13 @@
 ### Hi there 👋
 I'm a Full-Stack Developer
 - 🔭 I’m currently working on something cool;
-- 🌱 I’m currently keep learning 
-- 🛠 Lang & Framework: .NET, Spring, Angular/React, Javascript
-- ⛏ Interest: Python, Next.js
+- 🌱 I’m currently keep learning
 - 👯 I’m looking to collaborate on open source/commercial projects
+
+🛠️ Tech Stack:
+- Frontend:  Angular | React
+- Backend: FastAPI | Next.js | .NET | Rust | Spring | SQL
+- Other tools: Docker | Git
 
 📚 I also love to read from time to time, you can follow my reading journey on Goodreads [here](https://www.goodreads.com/user/show/187851861-angelc16).
 
