@@ -9,7 +9,7 @@ I'm a software developer. I have a growth mindset and am always learning somethi
 🛠️ Tech Stack:
 - Frontend:  Angular | React
 - Backend: FastAPI | Next.js | .NET | Rust | Spring | SQL
-- Other tools: Docker | Git
+- Other tools: Docker | Git 
 
 📚 I also love to read from time to time, you can follow my reading journey on Goodreads [here](https://www.goodreads.com/user/show/187851861-angelc16).
 
