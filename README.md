@@ -2,9 +2,8 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Angel15403890)
 
 ### Hi there 👋
-I'm a Full-Stack Developer
+I'm a software developer. I have a growth mindset and am always learning something new.
 - 🔭 I’m currently working on something cool;
-- 🌱 I’m currently keep learning
 - 👯 I’m looking to collaborate on open source/commercial projects
 
 🛠️ Tech Stack:
